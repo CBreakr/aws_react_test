@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p style={{background:"red"}}>
-          Some simple content
+          Some simple content HERE!!!
         </p>
         <a
           className="App-link"
